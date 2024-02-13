@@ -1,5 +1,7 @@
 # JavaSE-Packages and Modules
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, "packages" and "modules" are both used for organizing and structuring code, but they serve slightly different purposes.
 
 ## 1. Packages
